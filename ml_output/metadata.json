@@ -1,0 +1,14 @@
+{
+  "algorithm": "MobileNetV2",
+  "is_dl": true,
+  "class_names": [
+    "happy",
+    "sad"
+  ],
+  "num_classes": 2,
+  "img_size": [
+    128,
+    128
+  ],
+  "accuracy": 0.6935603256846781
+}
